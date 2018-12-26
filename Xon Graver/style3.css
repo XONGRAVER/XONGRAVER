@@ -1,0 +1,18 @@
+body 
+{
+    background-image: url('wall.jpg')  ;
+    
+}
+h1 
+{
+    text-align: left;
+    font-family: MV BOLI;
+    font-size: 50px;
+    color: red;
+}
+h2{
+    text-align: left;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+    color: blue;
+}

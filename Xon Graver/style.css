@@ -1,0 +1,43 @@
+h1
+{
+    text-align: center;
+    font-family: MV BOLI;
+    font-size: 80px;
+    margin-bottom: 0px;
+    color: chartreuse;
+}
+h2
+{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    
+}
+pre
+{
+    text-align: center;
+    font-size: 15px;    
+    font-family: Arial, Helvetica, sans-serif;
+    color: chartreuse;
+     
+}
+p
+{
+    text-align: center;
+    
+}
+body{
+    background: url('wall.jpg')  ;
+    
+}
+
+
+#565{
+    text-align: center;
+}
+img{
+    position: absolute;
+    top: 70%;
+    left: 35%;
+}
+
